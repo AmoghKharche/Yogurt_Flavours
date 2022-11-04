@@ -48,6 +48,18 @@ h1 {
 }
 
 .founder {
-    text-align: justify;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    
+    
 }
 
+.btn-primary {
+    background-color: #00bbc9;
+    border-color: #00BBC9;
+}
+
+.btn-primary:hover{
+    background-color: #00bbc9;
+    border-color: #00BBC9;
+}
